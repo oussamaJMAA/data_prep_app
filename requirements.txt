@@ -101,3 +101,4 @@ wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_167386465314
 wincertstore==0.2
 wordcloud==1.8.2.2
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1674910338934/work
+asttokens==2.0.5 
